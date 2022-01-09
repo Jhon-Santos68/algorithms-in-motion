@@ -1,5 +1,5 @@
 # DO IT! CHALLENGE - 2.1 Linked List
-# Contact management app implemented using an array (technically a Python list).
+# Contact management app implemented using an array (technically a Python list).nice
 
 def print_menu():
     print('1. Print Contacts')
